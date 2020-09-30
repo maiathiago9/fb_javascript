@@ -12,3 +12,9 @@ Aula 3 - Programa de boas vindas com foco nos comentarios
 - Capturei e apresentei o nome do usuário com uma saudação personalizada
 - Defini variavel 
 - Elementos de entrada e saída
+
+Aula 4 - Programa para somar dois numeros inteiros 
+- Capturei os dois numeros somei os dois e então coloquei em uma terceira variavel
+- O programa foi feito de duas formas a primeira: entrada via prompt e saida via document.write a segunda
+  entrada via formulario e saida via window.alert
+
