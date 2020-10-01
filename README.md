@@ -23,4 +23,8 @@ Aula 5 - Programa condicional (If)
 - defini variaveis
 - Usei decisão condicional simples if 
 
+Aula 5 - Parte II 
+-  Ler dois numeros, independentemente da ordem em que foram digitados e apresenta-los em ordem crescente
+- defini variaveis
+- Usei decisão condicional composta if..else e foi dispensada a utilização de uma terceira variavel. 
 
