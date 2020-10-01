@@ -18,3 +18,9 @@ Aula 4 - Programa para somar dois numeros inteiros
 - O programa foi feito de duas formas a primeira: entrada via prompt e saida via document.write a segunda
   entrada via formulario e saida via window.alert
 
+Aula 5 - Programa condicional (If) 
+- Ler dois numeros, independentemente da ordem em que foram digitados e apresenta-los em ordem crescente
+- defini variaveis
+- Usei decisão condicional simples if 
+
+
