@@ -28,3 +28,8 @@ Aula 5 - Parte II
 - defini variaveis
 - Usei decisão condicional composta if..else e foi dispensada a utilização de uma terceira variavel. 
 
+Aula 6 - Aninhamento de if 
+- Calcular o salário liquido de um funcionario que trabalha por horas (usei a saida de dados com aninhamento de if)
+- informar a classificação salarial
+- entrada de dados : window.prompt
+- saida de dados : document.write
