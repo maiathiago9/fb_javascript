@@ -33,3 +33,7 @@ Aula 6 - Aninhamento de if
 - informar a classificação salarial
 - entrada de dados : window.prompt
 - saida de dados : document.write
+
+Aula 7 - Switch case 
+- Utilizei o metodo Switch...case para pesquisar o nome do mês de referencia 
+- através do numero correspondente ao mês
