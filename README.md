@@ -37,3 +37,6 @@ Aula 6 - Aninhamento de if
 Aula 7 - Switch case 
 - Utilizei o metodo Switch...case para pesquisar o nome do mês de referencia 
 - através do numero correspondente ao mês
+
+Aula 8 - Operador ternário
+- exemplos praticos de aplicaçoes com operador ternario 
